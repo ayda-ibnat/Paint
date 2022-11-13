@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("Screenshot\ 2022-10-09\ 085714.png");
+	background-size:cover;
+	background-position:center;
+}
+
+#myCanvas{
+	border:ridge 10px rgb(109, 87, 46);
+	background-color: rgb(241, 231, 169);
+}
